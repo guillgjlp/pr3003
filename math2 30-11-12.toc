@@ -1,4 +1,0 @@
-\select@language {french}
-\contentsline {section}{\numberline {1}D\IeC {\'e}terminer l'\IeC {\'e}quation diff\IeC {\'e}rentielle v\IeC {\'e}rifi\IeC {\'e}e par M(t)=(x(t),y(t)).}{4}{section.1}
-\contentsline {subsubsection}{\numberline {1.0.1}Projection du Poids sur la composante tangentielle}{5}{subsubsection.1.0.1}
-\contentsline {subsubsection}{\numberline {1.0.2}Projection de la tension du ressort su la composante tangentielle}{6}{subsubsection.1.0.2}
